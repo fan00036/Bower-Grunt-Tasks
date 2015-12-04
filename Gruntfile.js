@@ -19,7 +19,7 @@ module.exports = function (grunt) {
             },
             bootstrap_css: {
                 src: 'bower_components/bootstrap/dist/css/bootstrap.css',
-                dest: 'dist/css/bootstrap.css ',
+                dest: 'dist/css/bootstrap.css',
             },
             fonts: {
                 src: 'bower_components/components-font-awesome/*',
